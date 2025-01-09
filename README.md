@@ -43,7 +43,7 @@ Halaman ini menggunakan Bootstrap untuk tata letak yang responsif, Google Fonts 
 
 ---
 
-## Halaman Makanan Jejak Rasa Nusantara
+## Halaman Makanan Kuliner Tradisional
 
 Halaman ini menampilkan daftar makanan khas Daerah Indonesia Data disajikan dalam bentuk tabel dan mendukung fungsi CRUD (Create, Read, Update, Delete).
 
